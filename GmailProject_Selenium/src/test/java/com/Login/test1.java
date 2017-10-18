@@ -22,6 +22,8 @@ ChromeDriver driver= new ChromeDriver();
 		
 		action.dragAndDropBy(b, 400, 300).perform();
 		//welcome
+		
+		System.out.println("welcome to java ");
 
 	}
 
