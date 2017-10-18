@@ -24,7 +24,7 @@ ChromeDriver driver= new ChromeDriver();
 		//welcome
 		
 		System.out.println("welcome to java ");
-
+		System.out.println("welcome to java ");
 	}
 
 }
